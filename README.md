@@ -6,23 +6,30 @@
 <p>- 👯 I’m looking for someone who are interested to learn and grow with me.</p>
 <p>- 💬 Ask me about ** HTML, CSS (Frameworks), Javascript, Vue, Data Structure & Algorithm **</p>
 
-<h3>Personal Statement</h3>
+<h2>Personal Statement:</h2>
 <p>I'm a self-taught web developer based in the Philippines. I am interested in learning new technical skills and web development skills.</p>
 <p>I have four years of experience using PHP as my backend language in web development.</p>
 <p>My goal is to become a full-stack developer before the year 2024 and to be hired by big companies after graduating with a Bachelor of Science in Computer Science course.</p>
-<h3>Web Development Skills</h3>
-<p>HTML5</p>
-<p>CSS3 / SCSS</p>
-<p>CSS Frameworks (Bootstrap 5 / Boostrap-Vue)</p>
-<p>JS ES7</p>
-<p>JQuery / Ajax</p>
-<p>Vue</p>
-<p>PHP</p>
-<p>Laravel Framework</p>
-<p>GraphQL</p>
-<p>MySQL</p>
 
-<h3>Technical skills</h3>
+<h2>Web Development Skills:</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <div>
+        <p>HTML5</p>
+        <p>CSS3 / SCSS</p>
+        <p>CSS Frameworks (Bootstrap 5 / Boostrap-Vue)</p>
+        <p>JS ES7</p>
+        <p>JQuery / Ajax</p>
+    </div>
+    <div>
+        <p>Vue</p>
+        <p>PHP</p>
+        <p>Laravel Framework</p>
+        <p>GraphQL</p>
+        <p>MySQL</p>
+    </div>
+</div>
+
+<h2>Technical skills:</h2>
 <p>I used Postman for API Testing</p>
 <p>I used Github for Git Source Control</p>
 <h3>Education</h3>
