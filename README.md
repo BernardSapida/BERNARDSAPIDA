@@ -1,7 +1,7 @@
-<img align='center' src="Banner-BernardSapida.png">
+<img align='center' src="LinkedIn-BernardSapida.png">
 <h1 align="center">Hi 👋, I'm Bernard Sapida</h1>
 <h3 align="center">A Full-Stack developer from Imus, Cavite Philippines</h3>
-<img align="right" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k9p2k4q4vo20l388jxafy3zo00h0eh0dvlrimut6&rid=giphy.gif&ct=g">
+<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k9p2k4q4vo20l388jxafy3zo00h0eh0dvlrimut6&rid=giphy.gif&ct=g">
 <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" />
 - 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**
 - 👯 I’m looking for someone who are interested to learn and grow with me.
