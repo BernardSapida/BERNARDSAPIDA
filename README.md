@@ -10,24 +10,20 @@
 <p>I'm a self-taught web developer based in the Philippines. I am interested in learning new technical skills and web development skills.</p>
 <p>I have four years of experience using PHP as my backend language in web development.</p>
 <p>My goal is to become a full-stack developer before the year 2024 and to be hired by big companies after graduating with a Bachelor of Science in Computer Science course.</p>
+<br/>
 
 <h2>Web Development Skills:</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-    <div>
-        <p>HTML5</p>
-        <p>CSS3 / SCSS</p>
-        <p>CSS Frameworks (Bootstrap 5 / Boostrap-Vue)</p>
-        <p>JS ES7</p>
-        <p>JQuery / Ajax</p>
-    </div>
-    <div>
-        <p>Vue</p>
-        <p>PHP</p>
-        <p>Laravel Framework</p>
-        <p>GraphQL</p>
-        <p>MySQL</p>
-    </div>
-</div>
+<p>HTML5</p>
+<p>CSS3 / SCSS</p>
+<p>CSS Frameworks (Bootstrap 5 / Boostrap-Vue)</p>
+<p>JS ES7</p>
+<p>JQuery / Ajax</p>
+<p>Vue</p>
+<p>PHP</p>
+<p>Laravel Framework</p>
+<p>GraphQL</p>
+<p>MySQL</p>
+<br/>
 
 <h2>Technical skills:</h2>
 <p>I used Postman for API Testing</p>
@@ -35,8 +31,9 @@
 <h3>Education</h3>
 <p>Bachelor of Science in Computer Science at Cavite State University</p>
 <p>I used Github for Git Source Control</p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/bernardsapida/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bernard Sapida" height="40" width="40" />
@@ -48,7 +45,8 @@
         <img align="center" src="https://clipart.info/images/ccovers/1516920567instagram-png-logo-transparent.png" alt="Bernard Sapida" height="40" width="40" />
     </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
@@ -69,6 +67,8 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
 </p>
+<br/>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardSapida&show_icons=true&locale=en&layout=compact" alt="BernardSapida" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardsapida&show_icons=true&locale=en" alt="BernardSapida" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardsapida" alt="BernardSapida" /></p>
