@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=BernardSapida&label=Profile%20views&color=0e75b6&style=flat" alt="BernardSapida" />
 <p>• 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**</p>
 <p>• 👯 I’m looking for someone who are interested to learn and grow with me.</p>
-<p>• 💬 Ask me about ** HTML, CSS (Frameworks), Javascript, Vue, Data Structure & Algorithm **</p>
+<p>• 💬 Ask me about ** Projects/Collaborations **</p>
 <br/>
 
 <h2>Personal Statement:</h2>
