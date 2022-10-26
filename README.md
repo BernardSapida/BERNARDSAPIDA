@@ -69,10 +69,10 @@
         <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="40" height="40"/>
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/OIP.0iTMJwozXZBXM0CL7mq_TgHaIV?pid=ImgDet&rs=1" alt="MySQL" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/R.f94c51912d572a43d16814c6e5a19548?rik=rFDFT49EEFcd9g&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1-1024x1024.png&ehk=%2f5cRCxk6vXt2fKqtKYUCAB0Vn4FcJk2C%2fdl%2bIPkyrj0%3d&risl=&pid=ImgRaw&r=0" alt="GraphQL" width="40" height="40"/>
     </a> 
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/R.f94c51912d572a43d16814c6e5a19548?rik=rFDFT49EEFcd9g&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1-1024x1024.png&ehk=%2f5cRCxk6vXt2fKqtKYUCAB0Vn4FcJk2C%2fdl%2bIPkyrj0%3d&risl=&pid=ImgRaw&r=0" alt="GraphQL" width="40" height="40"/>
+        <img src="https://th.bing.com/th/id/OIP.0iTMJwozXZBXM0CL7mq_TgHaIV?pid=ImgDet&rs=1" alt="MySQL" width="40" height="40"/>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
