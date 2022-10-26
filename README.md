@@ -1,11 +1,11 @@
 <img align='center' src="LinkedIn-BernardSapida.png">
 <h1 align="center">Hi 👋, I'm Bernard Sapida</h1>
 <h3 align="center">A Full-Stack developer from Imus, Cavite Philippines</h3>
-<img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k9p2k4q4vo20l388jxafy3zo00h0eh0dvlrimut6&rid=giphy.gif&ct=g">
-<img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" />
-- 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**
-- 👯 I’m looking for someone who are interested to learn and grow with me.
-- 💬 Ask me about ** HTML, CSS (Frameworks), Javascript, Vue, Data Structure & Algorithm **
+<img src="https://komarev.com/ghpvc/?username=BernardSapida&label=Profile%20views&color=0e75b6&style=flat" alt="BernardSapida" />
+<p>- 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**</p>
+<p>- 👯 I’m looking for someone who are interested to learn and grow with me.</p>
+<p>- 💬 Ask me about ** HTML, CSS (Frameworks), Javascript, Vue, Data Structure & Algorithm **</p>
+
 <h3>Personal Statement</h3>
 <p>I'm a self-taught web developer based in the Philippines. I am interested in learning new technical skills and web development skills.</p>
 <p>I have four years of experience using PHP as my backend language in web development.</p>
@@ -21,12 +21,14 @@
 <p>Laravel Framework</p>
 <p>GraphQL</p>
 <p>MySQL</p>
+
 <h3>Technical skills</h3>
 <p>I used Postman for API Testing</p>
 <p>I used Github for Git Source Control</p>
 <h3>Education</h3>
 <p>Bachelor of Science in Computer Science at Cavite State University</p>
 <p>I used Github for Git Source Control</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/bernardsapida/" target="blank">
@@ -60,3 +62,6 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
 </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardSapida&show_icons=true&locale=en&layout=compact" alt="BernardSapida" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardsapida&show_icons=true&locale=en" alt="BernardSapida" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardsapida" alt="BernardSapida" /></p>
