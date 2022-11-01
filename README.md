@@ -1,7 +1,7 @@
 <img align='center' src="LinkedIn-BernardSapida.png">
 <br/>
 <h1 align="center">Hi 👋, I'm Bernard Sapida</h1>
-<h3 align="center">A Full-Stack developer from Imus, Cavite Philippines</h3>
+<h3 align="center">A Frontend developer from Imus, Cavite Philippines</h3>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=BernardSapida&label=Profile%20views&color=0e75b6&style=flat" alt="BernardSapida" />
 <p>• 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**</p>
