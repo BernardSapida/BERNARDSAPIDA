@@ -23,7 +23,6 @@
 
 <h2>Education</h2>
 <p>• Bachelor of Science in Computer Science at Cavite State University</p>
-<p>• I used Github for Git Source Control</p>
 <br/>
 
 <h2 align="left">Connect with me:</h2>
