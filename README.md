@@ -11,7 +11,7 @@
 <br/>
 
 <h2>Resume / CV:</h2>
-<a href="SAPIDA, BERNARD V. - Resume.pdf" download>Download Bernard Sapida's resume</a>
+<p>Click <a href="SAPIDA, BERNARD V. - Resume.pdf" download>here</a> to download Bernard Sapida's resume.</p>
 <br/>
 
 <h2>Personal Statement:</h2>
