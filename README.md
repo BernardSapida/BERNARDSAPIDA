@@ -10,10 +10,15 @@
 <p>• 📫 How to reach me <a href="https://bernardsapida.herokuapp.com/">Bernard Sapida</a>
 <br/>
 
+<h2>Resume / CV:</h2>
+<a href="SAPIDA, BERNARD V. - Resume.pdf" download>
+<br/>
+
 <h2>Personal Statement:</h2>
-<p>• I'm a self-taught web developer based in the Philippines. I am interested in learning new technical skills and web development skills.</p>
-<p>• I have four years of experience using PHP as my backend language in web development.</p>
-<p>• My goal is to become a full-stack developer before the year 2024 and to be hired by big companies after graduating with a Bachelor of Science in Computer Science course.</p>
+<p>• I am a highly motivated and competitive web developer with a passion for creating innovative and intuitive web solutions. With a strong background in programming languages such as HTML, CSS, JavaScript, and PHP, I have developed a range of complex and interactive websites for various clients.</p>
+<p>• In addition to my technical skills, I am also a quick learner and have a strong problem-solving mentality. I have a proven track record of delivering projects on time and within budget, and I am always eager to take on new challenges and push the limits of my abilities.</p>
+<p>• As a web developer, I understand the importance of staying up-to-date with the latest technologies and industry trends. I am dedicated to continuously improving my skills and expanding my knowledge in order to provide the best possible solutions to my clients.</p>
+<p>Overall, I am a driven and results-oriented web developer with a strong commitment to excellence and a desire to grow within the industry. I am confident that my technical abilities, creative problem-solving skills, and passion for web development make me an asset to any team.</p>
 <br/>
 
 <h2>Technical skills:</h2>
