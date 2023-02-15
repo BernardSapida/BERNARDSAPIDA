@@ -66,7 +66,7 @@
     </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="Vue" width="40" height="40"/>
-    </a> 
+    </a><br/>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.mattbenton.io/img/logos/vue-9-logo-png-transparent-min.png" alt="Vue" width="40" height="40"/>
     </a> 
