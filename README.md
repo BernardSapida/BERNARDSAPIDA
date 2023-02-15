@@ -83,7 +83,7 @@
         <img src="https://th.bing.com/th/id/OIP.0iTMJwozXZBXM0CL7mq_TgHaIV?pid=ImgDet&rs=1" alt="MySQL" width="40" height="40"/>
     </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01-1024x706.png" alt="MongoDB" width="40" height="40"/>
+        <img src="https://res.cloudinary.com/dp7d8pyol/image/fetch/c_fit,h_300,w_300/https://marketplace-userassets.s3.amazonaws.com/prod/company/PbEMQo22djma4.png" alt="MongoDB" width="40" height="40"/>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
