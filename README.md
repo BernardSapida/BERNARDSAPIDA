@@ -61,8 +61,11 @@
     <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
         <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png" alt="Javascript" width="40" height="40"/>
     </a> 
-    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-        <img src="https://th.bing.com/th/id/R.450f2b96f7e9a4dd6bd4203e9ae7d6d1?rik=ee9MFIc%2b5y5kAg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png--512.png&ehk=0sJi1yTrN7399ERPql%2bPhOYr60Sjbx4adZRmCdmExIM%3d&risl=&pid=ImgRaw&r=0" alt="Jquery" width="40" height="40"/>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://th.bing.com/th/id/R.450f2b96f7e9a4dd6bd4203e9ae7d6d1?rik=ee9MFIc%2b5y5kAg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjquery-logo-png--512.png&ehk=0sJi1yTrN7399ERPql%2bPhOYr60Sjbx4adZRmCdmExIM%3d&risl=&pid=ImgRaw&r=0" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0" alt="Vue" width="40" height="40"/>
     </a> 
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://www.mattbenton.io/img/logos/vue-9-logo-png-transparent-min.png" alt="Vue" width="40" height="40"/>
@@ -70,14 +73,17 @@
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/R.adbac78231c9a2ff5c21aaa32dd4e1e4?rik=jWTUkOKwKIk7jg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2fphp_emblem.png&ehk=gbX0plW%2fbqAeSR4cWmkL44R%2bUWxCpG3CL%2b2V4KHQlpQ%3d&risl=&pid=ImgRaw&r=0" alt="PHP" width="40" height="40"/>
     </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="Laravel" width="40" height="40"/>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+        <img src="https://th.bing.com/th/id/R.d42672d4d185739d26257ed5c653c740?rik=dvh0VB%2fEWz20hQ&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fnodejs-logo-png-nice-images-collection-node-js-desktop-wallpapers-370.png&ehk=bMmyN3n62enzXql6L4A5EzHc90tJxK%2bKcr6GMACTfRk%3d&risl=&pid=ImgRaw&r=0" alt="NodeJS" width="40" height="40"/>
     </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/R.f94c51912d572a43d16814c6e5a19548?rik=rFDFT49EEFcd9g&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1-1024x1024.png&ehk=%2f5cRCxk6vXt2fKqtKYUCAB0Vn4FcJk2C%2fdl%2bIPkyrj0%3d&risl=&pid=ImgRaw&r=0" alt="GraphQL" width="40" height="40"/>
     </a> 
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/OIP.0iTMJwozXZBXM0CL7mq_TgHaIV?pid=ImgDet&rs=1" alt="MySQL" width="40" height="40"/>
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01-1024x706.png" alt="MongoDB" width="40" height="40"/>
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
