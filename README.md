@@ -4,7 +4,7 @@
 <h3 align="center">A Frontend developer from Imus, Cavite Philippines</h3>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=BernardSapida&label=Profile%20views&color=0e75b6&style=flat" alt="BernardSapida" />
-<p>• 🌱 I’m currently learning **Laravel, GraphQL Apollo, Vue**</p>
+<p>• 🌱 I’m currently learning **MongoDB, Express JS, React, Node JS**</p>
 <p>• 👯 I’m looking for someone who are interested to learn and grow with me.</p>
 <p>• 💬 Ask me about ** Projects/Collaborations **</p>
 <p>• 📫 How to reach me <a href="https://bernardsapida.herokuapp.com/">Bernard Sapida</a>
