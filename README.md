@@ -1,4 +1,4 @@
-<img align='center' src="LinkedIn-BernardSapida.png">
+<img align='center' src="/images/LinkedIn-BernardSapida.png">
 <br/>
 <h1 align="center">Hi 👋, I'm Bernard Sapida</h1>
 <h3 align="center">A full stack developer from Imus, Cavite Philippines</h3>
@@ -11,7 +11,7 @@
 <br/>
 
 <h2>Resume / CV:</h2>
-<p>Click <a href="SAPIDA, BERNARD V. - Resume.pdf" download>here</a> to download Bernard Sapida's resume.</p>
+<p>Click <a href="/files/bernard-sapida-resume.pdf" download>here</a> to download Bernard Sapida's resume.</p>
 <br/>
 
 <h2>Personal Statement:</h2>
