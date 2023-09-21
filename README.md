@@ -7,7 +7,7 @@
 <p>• 🌱 I’m currently learning **React Native**</p>
 <p>• 👯 I’m looking for someone who are interested to learn and grow with me.</p>
 <p>• 💬 Ask me about ** Projects/Collaborations **</p>
-<p>• 📫 How to reach me <a href="https://bernardsapida.herokuapp.com/">Bernard Sapida</a>
+<p>• 📫 How to reach me <a href="https://bernardsapida.vercel.app">Bernard Sapida</a>
 <br/>
 
 <h2>Resume / CV:</h2>
