@@ -1,7 +1,7 @@
 <img align='center' src="LinkedIn-BernardSapida.png">
 <br/>
 <h1 align="center">Hi 👋, I'm Bernard Sapida</h1>
-<h3 align="center">A fullstack developer from Imus, Cavite Philippines</h3>
+<h3 align="center">A full stack developer from Imus, Cavite Philippines</h3>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=BernardSapida&label=Profile%20views&color=0e75b6&style=flat" alt="BernardSapida" />
 <p>• 🌱 I’m currently learning **React Native**</p>
@@ -15,7 +15,7 @@
 <br/>
 
 <h2>Personal Statement:</h2>
-<p>• I am a highly motivated and competitive web developer with a passion for creating innovative and intuitive web solutions. With a strong background in programming languages such as HTML, CSS, JavaScript, and PHP, I have developed a range of complex and interactive websites for various clients.</p>
+<p>• I am a highly motivated and competitive web developer with a passion for creating innovative and intuitive web solutions. With a strong background in programming, I have developed a range of complex and interactive websites for various clients.</p>
 <p>• In addition to my technical skills, I am also a quick learner and have a strong problem-solving mentality. I have a proven track record of delivering projects on time and within budget, and I am always eager to take on new challenges and push the limits of my abilities.</p>
 <p>• As a web developer, I understand the importance of staying up-to-date with the latest technologies and industry trends. I am dedicated to continuously improving my skills and expanding my knowledge in order to provide the best possible solutions to my clients.</p>
 <p>Overall, I am a driven and results-oriented web developer with a strong commitment to excellence and a desire to grow within the industry. I am confident that my technical abilities, creative problem-solving skills, and passion for web development make me an asset to any team.</p>
