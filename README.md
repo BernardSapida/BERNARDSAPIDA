@@ -94,3 +94,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BernardSapida&show_icons=true&theme=radical&locale=en&layout=compact" alt="BernardSapida" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bernardsapida&show_icons=true&theme=radical&locale=en" alt="BernardSapida" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bernardsapida&theme=radical" alt="BernardSapida" /></p>
+<a href="https://app.daily.dev/bernardsapida"><img src="https://api.daily.dev/devcards/v2/HK9u3mBll931RunrS0WUU.png?r=bdr&type=default" width="356" alt="Bernard Sapida's Dev Card"/></a>
